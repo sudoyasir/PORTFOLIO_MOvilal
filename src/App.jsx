@@ -18,7 +18,7 @@ function App() {
     <div>
      
     
-  <Nabvar />
+  {/* <Nabvar /> */}
   <Home />
   <socialLinks />
   <About />
