@@ -30,15 +30,6 @@ function App() {
   <Connect />
 
 
-  
-  
-  
-  
- 
-  
-  
-
-
     </div>
   )
 }
