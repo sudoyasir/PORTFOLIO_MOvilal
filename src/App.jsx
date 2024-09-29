@@ -3,7 +3,7 @@ import React from 'react'
 
 import Nabvar from './Components/Nabvar';
 import Home from './Components/Home';
-import SocialLinks from './Components/socialLinks';
+import socialLinks from './Components/socialLinks';
 import About from './Components/About';
 import Portfolio from './Components/Portfolio';
 import Portfolio1 from './Components/Portfolio1';
@@ -20,7 +20,7 @@ function App() {
     
   <Nabvar />
   <Home />
-  <SocialLinks />
+  <socialLinks />
   <About />
   <Portfolio />
   <Portfolio1 />
