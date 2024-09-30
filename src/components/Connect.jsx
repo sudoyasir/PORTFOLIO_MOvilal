@@ -37,7 +37,7 @@ function Connect() {
             <input
               name="number"
               type="number"
-              placeholder="Enter your contact-number ==> Optional "
+              placeholder="Optional/Enter Mob-No ==> Optional "
               className="px-20 py-2 rounded-md flex justify-start"
             />
 
