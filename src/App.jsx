@@ -1,16 +1,16 @@
 import React from 'react'
 
 
-import Nabvar from './Components/Nabvar';
-import Home from './Components/Home';
-import socialLinks from './Components/socialLinks';
-import About from './Components/About';
-import Portfolio from './Components/Portfolio';
-import Portfolio1 from './Components/Portfolio1';
-import Skill from './Components/Skill';
+import Nabvar from './components/Nabvar';
+import Home from './components/Home';
+import socialLinks from './components/socialLinks';
+import About from './components/About';
+import Portfolio from './components/Portfolio';
+import Portfolio1 from './components/portfolio1';
+import Skill from './components/Skill';
 
- import Connect  from './Components/Connect';
-import Basics from './Components/Basics';
+ import Connect  from './components/Connect';
+import Basics from './components/Basics';
 
 
 function App() {

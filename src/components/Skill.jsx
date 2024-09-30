@@ -7,7 +7,7 @@ import c from '../assets/C-Language-image.png'
 import html from '../assets/html-image.jpg'
 import css from '../assets/Css-image.jpeg'
 import bootstrap from '../assets/bootstrap-image.webp'
-import javascript from '../assets/javascript-image.png'
+import javascript from '../assets/javaScript-image.png'
 import ejs from '../assets/ejs-image.jpg'
 import tailwindcss from '../assets/tailwindcss.png'
 import Nodejs from '../assets/Nodejs-image.png'
@@ -15,7 +15,7 @@ import Expressjs from '../assets/expressjs-image.png'
 import MongoDB from '../assets/MongoDB.png'
 import Reactjs from '../assets/Reactjs-image.png'
 import sql from '../assets/SQL-image.jpg'
-import gitAndGithub from '../assets/gitAndGithub-image.png'
+import gitAndGithub from '../assets/GitAndGithub-image.png'
 
 
 
